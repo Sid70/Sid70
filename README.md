@@ -13,6 +13,10 @@ Download My Resume:
 
 
 [![My Resume](https://img.shields.io/badge/Resume-%2336465D.svg?style=for-the-badge)](https://drive.google.com/file/d/1NTSMJLko6extvWn6xP6pZxhaQcCpD2mw/view?usp=drivesdk)
+
+
+
+**Hobbies**: Coding , PC & Mobile Game
 ## 🛠 Skills
 
 **Web Development**
