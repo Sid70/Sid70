@@ -1,4 +1,10 @@
-### Hi there 👋
+
+# Hi, I'm Siddhant! 👋
+
+
+## 🚀About Me
+Entry Level ! I'm a full stack developer.I am currently pursuing B.Tech in Computer Science at Sambalpur University Institute of Information Technology ,Burla.
+
 
 <!--
 **Sid70/Sid70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
