@@ -7,7 +7,12 @@ I am currently pursuing **B.Tech** in **Computer Science** at Sambalpur Universi
 
 I'm currently learning **Full Stack Development**.
 
-Download My Resume:[![My Resume](https://img.shields.io/badge/Resume-%2336465D.svg?style=for-the-badge)](https://drive.google.com/file/d/1NTSMJLko6extvWn6xP6pZxhaQcCpD2mw/view?usp=drivesdk)
+Download My Resume:
+
+
+
+
+[![My Resume](https://img.shields.io/badge/Resume-%2336465D.svg?style=for-the-badge)](https://drive.google.com/file/d/1NTSMJLko6extvWn6xP6pZxhaQcCpD2mw/view?usp=drivesdk)
 ## 🛠 Skills
 
 **Web Development**
