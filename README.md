@@ -1,8 +1,6 @@
-
 # Hi, I'm Siddhant! 👋
 
-<img src="https://user-images.githubusercontent.com/103874320/190897634-9dcd0991-8d76-4443-9f56-9da8a835327c.gif" height="300px" weight="100px">
-
+<img src="https://user-images.githubusercontent.com/103874320/190897634-9dcd0991-8d76-4443-9f56-9da8a835327c.gif" height="350px" width="500px">
 
 ## 🚀About Me
 I am currently pursuing **B.Tech** in **Computer Science** at Sambalpur University Institute of Information Technology ,Burla.
@@ -53,7 +51,6 @@ Download My Resume:
 
 
 ## :fire: Siddhanta Choudhury's Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sid70)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sid70&layout=compact&theme=vision-friendly-dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sid70&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid70&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
