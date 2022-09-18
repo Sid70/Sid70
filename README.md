@@ -1,6 +1,8 @@
 
 # Hi, I'm Siddhant! 👋
 
+![github](https://user-images.githubusercontent.com/103874320/190897634-9dcd0991-8d76-4443-9f56-9da8a835327c.gif)
+
 
 ## 🚀About Me
 I am currently pursuing **B.Tech** in **Computer Science** at Sambalpur University Institute of Information Technology ,Burla.
@@ -48,3 +50,8 @@ Download My Resume:
 ## 🧑‍💻 Find me on Coding Platforms
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Siddhanta26)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Si70)
+
+
+## Siddhanta Choudhury's Github Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sid70)
+
