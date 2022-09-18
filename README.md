@@ -51,7 +51,7 @@ Download My Resume:
 
 
 ## :fire: Siddhanta Choudhury's Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sid70&layout=compact&theme=vision-friendly-dark) 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sid70&theme=dark&background=000000)]]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid70&layout=compact&theme=vision-friendly-dark)]]
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sid70&layout=compact&theme=vision-friendly-dark)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sid70&theme=dark&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid70&layout=compact&theme=vision-friendly-dark)
 
