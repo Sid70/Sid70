@@ -1,7 +1,7 @@
 
 # Hi, I'm Siddhant! 👋
 
-![github](https://user-images.githubusercontent.com/103874320/190897634-9dcd0991-8d76-4443-9f56-9da8a835327c.gif)
+<img src="https://user-images.githubusercontent.com/103874320/190897634-9dcd0991-8d76-4443-9f56-9da8a835327c.gif" height="300px" weight="100px">
 
 
 ## 🚀About Me
@@ -52,6 +52,8 @@ Download My Resume:
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Si70)
 
 
-## Siddhanta Choudhury's Github Stats
+## :fire: Siddhanta Choudhury's Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sid70)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sid70&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid70&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
