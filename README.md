@@ -51,6 +51,7 @@ Download My Resume:
 ## 🧑‍💻 Find me on Coding Platforms
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Siddhanta26)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Si70)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSid70&logo=leetcode&logoColor=yellow)](https://leetcode.com/Sid70/)
 
 
 ## :fire: Siddhanta Choudhury's Github Stats
