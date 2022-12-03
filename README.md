@@ -55,7 +55,7 @@ Download My Resume:
 
 
 ## Siddhanta Choudhury's LeetCode Stats
-[![Sid70's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Sid70)](https://github.com/Sid70/leetcode-stats)
+[![Sid70's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Sid70&theme=dark)](https://github.com/Sid70/leetcode-stats)
 
 
 ## :fire: Siddhanta Choudhury's Github Stats
