@@ -54,6 +54,10 @@ Download My Resume:
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSid70&logo=leetcode&logoColor=yellow)](https://leetcode.com/Sid70/)
 
 
+## Siddhanta Choudhury's LeetCode Stats
+[![Sid70's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Sid70)](https://github.com/Sid70/leetcode-stats)
+
+
 ## :fire: Siddhanta Choudhury's Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sid70&layout=compact&theme=vision-friendly-dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sid70&theme=dark&background=000000)
