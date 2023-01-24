@@ -64,6 +64,6 @@ Download My Resume:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid70&layout=compact&theme=vision-friendly-dark)
 
 ## Achievements
-[![@sid70's Holopin board](https://holopin.me/sid70)](https://holopin.io/@sid70)
+[![An image of @sid70's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sid70)](https://holopin.io/@sid70)
 
 
