@@ -15,7 +15,7 @@ Download My Resume:
 
 
 
-[![My Resume](https://img.shields.io/badge/Resume-%2336465D.svg?style=for-the-badge)](https://drive.google.com/file/d/1mhFnNWBNhHUWVtkSQF66FBgYM8SNlvc1/view?usp=drivesdk)
+[![My Resume](https://img.shields.io/badge/Resume-%2336465D.svg?style=for-the-badge)](https://flowcv.com/resume/sglvbcp5vk)
 
 
 
