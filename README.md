@@ -7,6 +7,8 @@ I am currently pursuing **B.Tech** in **Computer Science** at Sambalpur Universi
 
 I'm currently learning **Full Stack Development**.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sid70)](https://github.com/ryo-ma/github-profile-trophy)
+
 My Portfolio Page :  
 https://sid70.github.io/My-Portfolio/
 
