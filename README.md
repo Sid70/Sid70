@@ -3,23 +3,19 @@
 <img src="https://user-images.githubusercontent.com/103874320/190897634-9dcd0991-8d76-4443-9f56-9da8a835327c.gif" height="350px" width="500px">
 
 ## 🚀About Me
-I am currently pursuing **B.Tech** in **Computer Science** at Sambalpur University Institute of Information Technology ,Burla.
+I have completed my **B.Tech** in **Computer Science** from Sambalpur University Institute of Information Technology ,Burla.
 
-I'm currently learning **Full Stack Development**.
+Graduated aspiring Software Engineer proficient in **Java**, **C#, C, C++, Python, PHP, and JavaScript** as well as **MySQL**. Specializes in **full-stack development**, particularly skilled with the **MERN stack (MongoDB,Express.js, React.js, Node.js)**. Possesses a strong foundation in **Data Structures and Algorithms (DSA)**,leveraging technology to innovate, enhance user experiences, and drive project success.
 
 My Portfolio Page :  
 https://sid70.github.io/My-Portfolio/
 
 Download My Resume:
-
-
-
-
 [![My Resume](https://img.shields.io/badge/Resume-%2336465D.svg?style=for-the-badge)](https://flowcv.com/resume/sglvbcp5vk)
 
 
 
-**Hobbies**: Coding , PC & Mobile Game
+**Hobbies**: Coding , PC & Mobile Game , Playing Chess
 ## 🛠 Skills
 
 **Web Development**
