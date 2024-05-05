@@ -10,7 +10,7 @@ Graduated aspiring Software Engineer proficient in **Java**, **C#, C, C++, Pytho
 My Portfolio Page :  
 https://sid70.github.io/My-Portfolio/
 
-Download My Resume:
+Download My Resume:<br>
 [![My Resume](https://img.shields.io/badge/Resume-%2336465D.svg?style=for-the-badge)](https://flowcv.com/resume/sglvbcp5vk)
 
 
