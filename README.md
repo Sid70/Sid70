@@ -15,7 +15,7 @@ Download My Resume:<br>
 
 
 
-**Hobbies**: Coding , PC & Mobile Game , Playing Chess
+**Hobbies**: PC & Mobile Game , Playing Chess
 ## 🛠 Skills
 
 **Web Development**
