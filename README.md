@@ -62,5 +62,5 @@ Download My Resume:<br>
 [![An image of @sid70's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sid70)](https://holopin.io/@sid70)
 
 ## Profile Views
-[![Views](https://visitcount.itsvg.in/api?id=Sid70&label=Profile%20Views&color=2&icon=5&pretty=false)](https://githyb.com/Sid70)
+[![Views](https://visitcount.itsvg.in/api?id=Sid70&label=Profile%20Views&color=2&icon=5&pretty=false)](https://github.com/Sid70)
 
