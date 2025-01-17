@@ -68,7 +68,6 @@ Download My Resume:<br>
 
 ## 🔥 Siddhanta Choudhury's Github Stats
 ![Sid70's Stats](https://github-readme-stats.vercel.app/api?username=Sid70&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![Sid70's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sid70&theme=radical&hide_border=false)
 ![Sid70's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid70&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 ## 🏆 My Achievements
